@@ -4,4 +4,4 @@ Azure shape sheet for Visio
 ## To Install
 Place AzureVisioShapes_Vx.vssx file in %HOME%\Documents\My Shapes 
 
-![Sample Mobile Architecture](https://github.com/srhallx/Azure-Visio-Shapes/SampleMobileArchitecture.png "Sample Mobile Architecture")
+![Sample Mobile Architecture](https://github.com/srhallx/Azure-Visio-Shapes/blob/master/SampleMobileArchitecture.png "Sample Mobile Architecture")
